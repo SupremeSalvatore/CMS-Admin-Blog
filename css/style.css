@@ -97,6 +97,7 @@ small {
     padding-left: 10px;
 }
 
+
 .card-header h3 {
     font-size: 1.5rem;
 }
@@ -201,4 +202,8 @@ small {
         color: #ecdbff;
         background-color: #8e44ad;
     }
+   table{
+   font-size: 0.8rem;
+}
+
 }
