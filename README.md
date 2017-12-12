@@ -1,6 +1,6 @@
 # CMS-Admin-Blog
 
-This is a practice i found on youtube chanell called Traversy Media, used it for practice decided to add it maybe someone will be interested in.This website is responsive and you can navigate through almost everything so feel free to explore.
+This is a practice i found on youtube channel called Traversy Media, used it for practice decided to add it maybe someone will be interested in.This website is responsive and you can navigate through almost everything so feel free to explore.
 
 Main Page:
 ![cms1](https://user-images.githubusercontent.com/31435456/33884851-abee4462-df41-11e7-8172-c83c7ae0a335.png)
